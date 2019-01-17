@@ -3,8 +3,6 @@ asn1js
 
 asn1js is a JavaScript generic ASN.1 parser/decoder that can decode any valid ASN.1 DER or BER structures.
 
-An example page that can decode Base64-encoded (raw base64, PEM armoring and `begin-base64` are recognized) or Hex-encoded (or local files with some browsers) is included and can be used both [online on the official website](https://lapo.it/asn1js/) or [offline (ZIP file)](https://lapo.it/asn1js/asn1js.zip).
-
 ISC license
 -----------
 
@@ -21,11 +19,3 @@ credits
 - BMPString support added by [Felipe Gasper](https://github.com/FGasper)
 - extended tag support added by [Péter Budai](https://www.peterbudai.eu/)
 - patches by [Gergely Nagy](https://github.com/ngg)
-
-links
------
-
-- [official website](https://lapo.it/asn1js/)
-- [InDefero tracker](http://idf.lapo.it/p/asn1js/)
-- [GitHub mirror](https://github.com/lapo-luchini/asn1js)
-- [Ohloh code stats](https://www.ohloh.net/p/asn1js)
